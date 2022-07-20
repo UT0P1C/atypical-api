@@ -39,5 +39,4 @@ Usuários podem:
 ## Autor
 
 - Website - [Vinicius](https://ut0p1c.github.io)
-- Frontend Mentor - [@UT0P1C](https://www.frontendmentor.io/profile/UT0P1C)
 - Twitter - [@esq1z0](https://www.twitter.com/esq1z0)
