@@ -7,14 +7,14 @@ Essa é a API de uma rede social ficticia criada por mim, chamada de Atypical, c
 - [Overview](#overview)
   - [Funções da api](#funções-da-API)
   - [Feito com](#feito-com)
-- [Author](#author)
+- [Autor](#autor)
 
 
 ## Overview
 
 ### Funções da API
 
-Users should be able to:
+Usuários podem:
 
 - Registrar usuario
 - Logar com usuario
@@ -36,7 +36,7 @@ Users should be able to:
 - Bcrypt
 
 
-## Author
+## Autor
 
 - Website - [Vinicius](https://ut0p1c.github.io)
 - Frontend Mentor - [@UT0P1C](https://www.frontendmentor.io/profile/UT0P1C)
