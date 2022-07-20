@@ -2,7 +2,7 @@
 
 Essa é a API de uma rede social ficticia criada por mim, chamada de Atypical, com o intuito de ser uma rede social exclusiva para pessoas neurodivergentes e PCDs
 
-## Table of contents
+## Sumário
 
 - [Overview](#overview)
   - [Funções da api](#funções-da-API)
