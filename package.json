@@ -1,0 +1,20 @@
+{
+	"name": "atypical-backend",
+	"version": "1.0.0",
+	"description": "A social media for atypical people",
+	"main": "index.js",
+	"scripts": {
+		"start": "nodemon index.js"
+	},
+	"author": "esq1z0",
+	"license": "ISC",
+	"dependencies": {
+		"bcrypt": "^5.0.1",
+		"dotenv": "^16.0.1",
+		"express": "^4.18.1",
+		"helmet": "^5.1.0",
+		"mongoose": "^6.4.5",
+		"morgan": "^1.10.0",
+		"nodemon": "^2.0.19"
+	}
+}
